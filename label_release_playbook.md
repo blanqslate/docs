@@ -22,9 +22,12 @@ The plan:
 
 IMO the target size should be 3-7 tracks, and the standards should be very creatively high. No genre requirement
 
-——
+***
+
 feedback mandatory for every submission
+
 possible outcomes for each sub: 
+
 1. any veto counts
 1. need feedback
 1. pass
