@@ -48,7 +48,12 @@ An ideal, smooth event should probably meet these goals:
 ...more to come
 
 ## Day-of
-...more to come
+* Have one point of contact between us and venue
+* Follow SOP of the venue and conduct ourselves professionally
+* Everyone arrives on time and supports each others' sets as possible
+* Take photos/videos for retro social media posts
+* Support through your own social media posts (stories) during event as possible
+* Keep in mind feedback for the future (what went well, what opportunities were missed, what we can continue to do)
 
 # Miscellaneous tidbits
 
