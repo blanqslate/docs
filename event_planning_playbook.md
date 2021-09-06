@@ -25,6 +25,7 @@ An ideal, smooth event should probably meet these goals:
 * Have a back-of-the-envelope budget estimate, for example:
     * `We expect ~100 people with an avg of $10 per ticket, and we expect each of them to buy 2x $5 drinks -- $1000 net from door, $1000 net at bar`
 
+* Contractors (e.g., promo) should be informed of the compensation structure including how/when/what they're getting paid
 * Establish a concrete plan for ticket sales
 * Have a working event concept (not necessarily a final theme, but definitely some idea) and begin working on promotional materials
 * Construct a vague plan for promotion
@@ -36,6 +37,7 @@ An ideal, smooth event should probably meet these goals:
     * If this is a music event, this means that musicians are committed, but secondary features like in-room performing artists may not yet be locked in
 * Have most of the graphics for promotion finalized
 * Begin promoting the event on social media
+* Have a complete list of equipment we need for the event (may vary depending on event concept and venue)
 
 ## 1 week out
 * Have a concrete plan for controlling access to and from the venue
@@ -48,12 +50,18 @@ An ideal, smooth event should probably meet these goals:
 ...more to come
 
 ## Day-of
-* Have one point of contact between us and venue
+* Have one point of contact between us and venue + contractors that are involved in day-of logistics (e.g., bouncer)
 * Follow SOP of the venue and conduct ourselves professionally
-* Everyone arrives on time and supports each others' sets as possible
+* Everyone arrives on time and supports each others' sets as much as possible
 * Take photos/videos for retro social media posts
 * Support through your own social media posts (stories) during event as possible
 * Keep in mind feedback for the future (what went well, what opportunities were missed, what we can continue to do)
+* There should be ample help / hands on deck for clean up. Nobody wants to be a custodian for everyone else's mess.
+
+## Post-event
+* Thank venue + collaborators
+* Make sure contractors have been paid
+* Have a retro at the next monthly meeting (what went well, what could we improve, what should we continue to do)
 
 # Miscellaneous tidbits
 
@@ -64,3 +72,4 @@ An ideal, smooth event should probably meet these goals:
 # Open questions
 
 * When do we and do we not need security?
+* When should contractors expect a payout? How do we pay them? (some people may not have Venmo)
