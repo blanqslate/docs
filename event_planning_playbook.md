@@ -21,6 +21,7 @@
 An ideal, smooth event should probably meet these goals:
 
 ## 2 months out
+Before any movement, establish one point of contact between our organization, contractors, and venue/promoters. This point person will be responsible for disseminating information to all members accordingly and promptly.
 
 * Lock in venue, including rental and bar minimum terms and timelines. May also include logistics and staffing considerations like ticketing and security. Examples with made up details and dates:
     * `Water Bar in Hayes Valley on 8/27 -- they take the bar, we take the door, they pay for the bouncer`
@@ -54,7 +55,7 @@ An ideal, smooth event should probably meet these goals:
 ...more to come
 
 ## Day-of
-* Have one point of contact between us and venue + contractors that are involved in day-of logistics (e.g., bouncer)
+* (Could be same as person from 2 months out detail) Have one point of contact between us and venue + contractors that are involved in day-of logistics (e.g., bouncer)
 * Follow SOP of the venue and conduct ourselves professionally
 * Everyone arrives on time and supports each others' sets as much as possible
 * Take photos/videos for retro social media posts
