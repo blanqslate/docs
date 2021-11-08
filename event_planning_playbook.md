@@ -11,7 +11,11 @@
     * If an event is **supposed** to have a particular theme, e.g. to stick to a particular music genre, talk with collaborators on some guest DJs who would actually fit that genre before inviting those people
     * If an event is **supposed** to contribute to some sort of social cause (e.g. "let's make sure we platform only people from underrepresented groups"), then establish that ahead of time and get group buy-in as opposed to retrofitting an event that was planned without this specifically in mind
 
-5. Plan an event you'd actually want to attend
+5. Plan an event you'd actually want to attend!
+
+# Make a plan, and write it down
+
+[Here's a sample template to get started.](https://docs.google.com/document/d/1mUOZ6S4U-GTQwzogYhH47CcHF2Kk7KMss3wdIgzjQ5g/edit?usp=sharing)
 
 # Ideal timeline
 An ideal, smooth event should probably meet these goals:
