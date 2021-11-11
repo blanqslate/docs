@@ -33,6 +33,7 @@ Before any movement, establish one point of contact between our organization, co
 * Contractors (e.g., promo) should be informed of the compensation structure including how/when/what they're getting paid
 * Establish a concrete plan for ticket sales
 * Have a working event concept (not necessarily a final theme, but definitely some idea) and begin working on promotional materials
+   - [Do any of these ideas make sense to incorporate in order to push creativity?](https://docs.google.com/document/d/1-B0NwU35L0TW7VEut_hBfKlz8pLUbB_3jTvrCKBppts/edit#)
 * Construct a vague plan for promotion
 * Setup a sync to talk through above points and flush out any open questions
 
