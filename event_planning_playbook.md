@@ -5,7 +5,7 @@
 
 2. Think about messaging how you want it to be when you attend. So many events are just just ‘here is the lineup, here is the venue and date, here is some art’ whereas event concepts are very attractive to people and really grow a community. This doesn't **have** to be a theme, but it should probably be a **vibe** at the very least.
 
-3. Cherish and do not compromise on artistic & creative integrity
+3. Cherish and do not compromise on artistic & creative integrity. Push the boundries, do something unique.
 
 4. Agree with your collaborators on the concrete goals for an event to avoid later confusion and scrambling. Some examples:
     * If an event is **supposed** to have a particular theme, e.g. to stick to a particular music genre, talk with collaborators on some guest DJs who would actually fit that genre before inviting those people
@@ -34,6 +34,7 @@ Before any movement, establish one point of contact between our organization, co
 * Establish a concrete plan for ticket sales
 * Have a working event concept (not necessarily a final theme, but definitely some idea) and begin working on promotional materials
 * Construct a vague plan for promotion
+* Setup a sync to talk through above points and flush out any open questions
 
 ## 1 month out
 
