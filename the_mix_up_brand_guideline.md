@@ -7,6 +7,7 @@ The purpose of this document is to establish a consistent communication and mark
 Pattern:
 `the mix up [edition] | [date]`
 
+- The full name of the events is "the mix up", including "the".
 - Use this pattern consistently throughout all social media, RA posting, chat groups, links etc.
 - The _edition_ qualifier either specifies the volume number, e.g. "vol. 11", or a descriptor for unusual events, e.g. "meet up".
 - Use and increase the volume number for regular events.
